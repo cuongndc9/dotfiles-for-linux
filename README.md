@@ -5,7 +5,7 @@
 ### 🧰 general installation
 
 ```sh
-yes | /bin/bash -c "$(curl -sSL https://raw.githubusercontent.com/cuongndc/dotfiles-for-linux/main/install.sh)"
+yes | /bin/bash -c "$(curl -sSL https://raw.githubusercontent.com/cuongndc9/dotfiles-for-linux/main/install.sh)"
 ```
 
 ### ⚙️ ibus-unikey
@@ -29,8 +29,8 @@ cat ~/.ssh/id_rsa.pub
 
 ### 💅 other
 
-- [night-owl-pantheon](https://github.com/harrytran103/night-owl-pantheon) - 🌌🦉Night Owl theme for Pantheon terminal.
-- [dracula-pantheon](https://github.com/harrytran103/dracula-pantheon) - 🧛🏻‍♂️ Dark theme for Pantheon terminal.
+- [night-owl-pantheon](https://github.com/cuongndc9/night-owl-pantheon) - 🌌🦉Night Owl theme for Pantheon terminal.
+- [dracula-pantheon](https://github.com/cuongndc9/dracula-pantheon) - 🧛🏻‍♂️ Dark theme for Pantheon terminal.
 - [mediumship](https://github.com/swapagarwal/mediumship) - 📚 Read all Medium stories for free!
 - [golangci-lint](https://golangci-lint.run/usage/integrations/)
 - [protoc](http://google.github.io/proto-lens/installing-protoc.html)
@@ -40,4 +40,4 @@ cat ~/.ssh/id_rsa.pub
 
 ## 🔖 license
 
-MIT
+MIT [Cuong Nguyen](https://www.linkedin.com/in/cuong9)
