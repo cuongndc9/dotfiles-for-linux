@@ -44,5 +44,5 @@ MIT [Cuong Nguyen](https://www.linkedin.com/in/cuong9)
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "In the middle of difficulty lies opportunity." - Albert Einstein
+> "It is during our darkest moments that we must focus to see the light." - Aristotle
 <!-- INSPIRATIONAL_QUOTE_END -->
