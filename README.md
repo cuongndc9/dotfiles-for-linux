@@ -44,5 +44,5 @@ MIT [Cuong Nguyen](https://www.linkedin.com/in/cuong9)
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "It is during our darkest moments that we must focus to see the light." - Aristotle
+> "The only impossible journey is the one you never begin." - Tony Robbins
 <!-- INSPIRATIONAL_QUOTE_END -->
