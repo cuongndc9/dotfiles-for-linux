@@ -44,5 +44,5 @@ MIT [Cuong Nguyen](https://www.linkedin.com/in/cuong9)
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The only impossible journey is the one you never begin." - Tony Robbins
+> "We may encounter many defeats but we must not be defeated." - Maya Angelou
 <!-- INSPIRATIONAL_QUOTE_END -->
