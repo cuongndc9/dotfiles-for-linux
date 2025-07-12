@@ -44,5 +44,5 @@ MIT [Cuong Nguyen](https://www.linkedin.com/in/cuong9)
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
+> "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
 <!-- INSPIRATIONAL_QUOTE_END -->
